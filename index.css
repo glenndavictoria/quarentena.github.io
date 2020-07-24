@@ -1,0 +1,77 @@
+body {
+    font-family: 'Archivo', sans-serif;
+}
+.serie {
+    margin: 30px;
+}
+.conteudo {
+    display: table;
+    margin-left: 20px;
+
+}
+.imagem{
+    display: table-cell;
+    float: right;
+    margin-left: 20px;
+}
+.texto {
+    margin-top: 30px;
+    display: table-cell;
+    float: left;
+}
+.livro {
+    margin: 30px;
+}
+.conteudo2 {
+    display: table;
+    margin-left: 20px;
+}
+.imagem2 {
+    display: table-cell;
+    float: right;
+    margin-left: 20px;
+}
+.texto2 {
+    margin-top: 30px;   
+    display: table-cell;
+    float: left;
+}
+.conteudo3 {
+    display: table-cell;
+}
+.texto3 {
+    display: table-cell;
+    float: left;
+}
+.tit {
+    background: #000;
+    color: #FFF;
+    position: relative;
+}
+.conteudo3 {
+    display: table-cell;
+    float: right;
+    margin-top: -540px;
+    margin-right: 320px;
+}
+.one1 {
+   border-style: dashed; 
+}
+.imagem3 {
+    float: right;
+    display: table-cell;
+    margin-top: 50px;
+    margin-right: -270px;
+}
+.imagem4 {
+    float: right;
+    display: table-cell;
+    margin-top: -150px;
+    margin-right: -270px;
+}
+.imagem5 {
+    float: right;
+    display: table-cell;
+    margin-top: 100px;
+    margin-right: 90px;
+}
